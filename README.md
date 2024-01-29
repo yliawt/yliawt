@@ -1,10 +1,12 @@
 <h1 align="center">Hi 👋, I'm Liaw Yee</h1>
 <h3 align="center">3rd year B.Sc student from UUM</h3>
 
+- ⚡ Interest **Frontend Journey**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/liawyee/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/liawyee/" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucnk_tp5grv76e_oeu4dwahg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucnk_tp5grv76e_oeu4dwahg" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/liaw yee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="liaw yee" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/liaw yee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="liaw yee" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
