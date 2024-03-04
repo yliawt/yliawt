@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Liaw Yee</h1>
 <h3 align="center">3rd year B.Sc student from UUM</h3>
-<h4 align="center">Interest **Frontend Journey**</h4>
+
 
 
 
